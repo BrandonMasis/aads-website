@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /tmp/
+Disallow: /cache/
+Disallow: /files/
+Disallow: /logs/
+Disallow: /scripts/
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+
+
+Disallow: /_/
+
+
+Disallow: /?
+
+
+Sitemap: https://www.ademmcr.com/sitemap_index.xml
+
+
+User-agent: *
+Crawl-delay: 10
